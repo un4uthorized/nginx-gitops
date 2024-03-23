@@ -1,3 +1,4 @@
+fullname: nginxapp
 replicaCount: 1
 image:
   repository: nginx
